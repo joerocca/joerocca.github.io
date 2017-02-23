@@ -325,20 +325,10 @@ ul#nav li.current a { color: #11ABB0; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
 .swift {
-  	width: 55%;
+  	width: 90%;
   	-moz-animation: swift 2s ease;
   	-webkit-animation: swift 2s ease;
-}
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
 }
 .objectivec {
   	width: 90%;
@@ -356,32 +346,39 @@ ul#nav li.current a { color: #11ABB0; }
   	-webkit-animation: sketch 2s ease;
 }
 .git {
-    width: 60%;
+    width: 70%;
     -moz-animation: git 2s ease;
     -webkit-animation: git 2s ease;
 }
 .html5 {
-    width: 25%;
+    width: 40%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
 .css {
-    width: 15%;
+    width: 40%;
     -moz-animation: css 2s ease;
     -webkit-animation: css 2s ease;
 }
-
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
+.elixir {
+    width: 50%;
+    -moz-animation: elixir 2s ease;
+    -webkit-animation: elixir 2s ease;
 }
+.python {
+    width: 50%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.php {
+    width: 25%;
+    -moz-animation: php 2s ease;
+    -webkit-animation: php 2s ease;
+}
+
 @-moz-keyframes swift {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 90%;  }
 }
 @-moz-keyframes objectivec {
   0%   { width: 0px;  }
@@ -397,28 +394,32 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-moz-keyframes git {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 25%;  }
+  100% { width: 40%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 15%;  }
+  100% { width: 40%;  }
 }
-
-@-webkit-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-webkit-keyframes swift {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes wordpress {
+@-moz-keyframes elixir {
   0%   { width: 0px;  }
   100% { width: 50%;  }
+}
+@-moz-keyframes python {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes php {
+  0%   { width: 0px;  }
+  100% { width: 25%;  }
+}
+
+@-webkit-keyframes swift {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
 }
 @-webkit-keyframes objectivec {
   0%   { width: 0px;  }
@@ -434,15 +435,27 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-webkit-keyframes git {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 25%;  }
+  100% { width: 40%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 15%;  }
+  100% { width: 40%;  }
+}
+@-webkit-keyframes elixir {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes python {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes php {
+  0%   { width: 0px;  }
+  100% { width: 25%;  }
 }
 
 /* ------------------------------------------------------------------ */
@@ -669,7 +682,7 @@ call-to-action .button {
    color: #0D0D0D;
 }
 #call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif; 
+	font-family: 'opensans-semibold', sans-serif;
 	color: #D8D8D8;
 }
 
@@ -693,7 +706,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;   
+   font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -1044,4 +1057,3 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
-
