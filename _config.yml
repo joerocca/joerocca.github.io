@@ -1,0 +1,33 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Joe Rocca
+paginate_path: "/blog/:num/"
+paginate:       5
+baseurl:        ""
+url:            "http://joerocca.me"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Joe Rocca
+  website:      http://joerocca.me
+  email:        jprocca813@gmail.com
+  phone:        813-957-0721
+  github:       https://github.com/joerocca
+  linkedin:     https://www.linkedin.com/pub/joe-rocca/7b/958/490
+  instagram:    https://instagram.com/joerocca/
+  twitter:      https://twitter.com/JoePRocca
+  medium:       https://medium.com/@joe.rocca
+
+# Gems
+plugins:
+  - jekyll-paginate

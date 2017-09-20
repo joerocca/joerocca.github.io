@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">
+    {{ page.title }}
+  </h1>
+  <div class="post-line">
+  </div>
+
+  {{ content }}
+
+</div>
+
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.url }}" class="left arrow"><i class="fa fa-arrow-left"></i></a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.url }}" class="right arrow"><i class="fa fa-arrow-right"></i></a>
+  {% endif %}
+
+  <a href="#" class="top"><i class="fa fa-arrow-up"></i></a>
+</div>

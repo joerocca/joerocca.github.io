@@ -1,0 +1,68 @@
+---
+layout: post
+title: "Understanding Higher Order Functions in Swift 3"
+---
+
+<html>
+<body>
+  <article class="h-entry">
+    <section data-field="body" class="e-content">
+      <section name="72d3" class="section section--body section--first section--last">
+        <div class="section-content">
+          <div class="section-inner sectionLayout--insetColumn">
+            <p name="b3e9" id="b3e9" class="graf graf--p graf-after--h3">A Higher Order Function is just a special name for a function that accepts one or more functions as it’s arguments. I know, It sounds a lot more complicated than that, but it is actually quite simple. These functions are nothing new and have
+              been a key part of functional languages for quite some time now. They have many advantages, some of the more popular ones including brevity, understandability, and easy re-use. Swift includes many Higher Order Functions out of the box, but
+              developers have the ability to create their own as well.</p>
+            <h3 name="1ca3" id="1ca3" class="graf graf--h3 graf-after--p">What Makes Higher Order Functions So Special?</h3>
+            <p name="b985" id="b985" class="graf graf--p graf-after--h3">Let’s say we need to increment each integer in a array. Here is how we would do this procedurally.</p>
+            <figure name="376d" id="376d" class="graf graf--figure graf--iframe graf-after--p">
+              <script src="https://gist.github.com/joerocca/60d705bfe190847286ec574d346135fb.js"></script>
+            </figure>
+            <p name="10ae" id="10ae" class="graf graf--p graf-after--figure">And here is how we would do it declaratively using the Map function, a Higher Order Function that is part of the Swift standard library which allows us to transform individual elements of an array and create a new array from them in a more
+              elegant way than we would procedurally.</p>
+            <figure name="0b65" id="0b65" class="graf graf--figure graf--iframe graf-after--p">
+              <script src="https://gist.github.com/joerocca/5e85192583253f5c4cc1eb37b5ea7afe.js"></script>
+            </figure>
+            <p name="6fd3" id="6fd3" class="graf graf--p graf-after--figure">As I’m sure you can already tell, the declarative example accomplishes the task in a conciser way than the imperative example. This is because Imperative style focuses on the <strong class="markup--strong markup--p-strong">“How”</strong>(Steps
+              to be taken to get the result.), while Declarative style focuses on the <strong class="markup--strong markup--p-strong">“What”</strong>(Expression of what needs to happen.). Now let’s see how each of these styles approached our problem.
+              In the imperative example, we approached the problem as if we were the computer — “First, I am going to create an array to hold the modified numbers, then I am going to iterate through all the numbers in the passed in array and increment
+              each one, then I am going to append each incremented number to my new array, and finally I will return the modified numbers”. This is very different from the declarative example where we approach the problem on a level that is more understandable
+              for humans. We focused on expressing what needs to happen and leave everything else for the computer to take care of. Humans are happier thinking like humans.</p>
+            <h3 name="2c70" id="2c70" class="graf graf--h3 graf-after--p">Creating Higher Order Functions</h3>
+            <p name="cbf5" id="cbf5" class="graf graf--p graf-after--h3">Now let’s get a better understanding of how Higher Order Functions work by creating our own. Here is an example implementation of the map function.</p>
+            <figure name="5a91" id="5a91" class="graf graf--figure graf--iframe graf-after--p">
+              <script src="https://gist.github.com/joerocca/7345cf5f871ebb4c99c6c33b5d487698.js"></script>
+            </figure>
+            <p name="88c1" id="88c1" class="graf graf--p graf-after--figure">In Swift, <a href="https://github.com/apple/swift/blob/master/stdlib/public/core/Sequence.swift#L811-L829" data-href="https://github.com/apple/swift/blob/master/stdlib/public/core/Sequence.swift#L811-L829" class="markup--anchor markup--p-anchor"
+                rel="noopener" target="_blank">the Map function is an extension of the Sequence protocol</a> and is a bit different than my implementation, but for the sake of this example I have made this implementation simpler.</p>
+            <p name="07fd" id="07fd"
+              class="graf graf--p graf-after--p">This implementation of the Map function is passed a transform function which each element of the array is passed into. Element represents a placeholder for the type that the array holds. T represents the placeholder after the element has been
+              passed into the transform function and it’s type is determined by the return type of the transform function. In the end, the Map function returns the transformed elements.</p>
+            <h3 name="7a18" id="7a18" class="graf graf--h3 graf-after--p">Examples</h3>
+            <figure name="0665" id="0665" class="graf graf--figure graf--iframe graf-after--h3">
+              <script src="https://gist.github.com/joerocca/349b9b577f8af86e9f6a68bab06ff544.js"></script>
+              <figcaption class="imageCaption">Using the Map function to perform a FizzBuzz Test</figcaption>
+            </figure>
+            <figure name="b7cc" id="b7cc" class="graf graf--figure graf--iframe graf-after--figure">
+              <script src="https://gist.github.com/joerocca/f1eb1964e5ea34dc3717d5f25fa92aae.js"></script>
+              <figcaption class="imageCaption">Using the Filter function to return all even numbers from an array</figcaption>
+            </figure>
+            <figure name="3fd1" id="3fd1" class="graf graf--figure graf--iframe graf-after--figure">
+              <script src="https://gist.github.com/joerocca/af89e6d8ace390a2524d78a465775dfe.js"></script>
+              <figcaption class="imageCaption">Using the Reduce function to calculate the sum of all numbers in the array starting at the number 4</figcaption>
+            </figure>
+            <figure name="902c" id="902c" class="graf graf--figure graf--iframe graf-after--figure">
+              <script src="https://gist.github.com/joerocca/33c56e37e0ac5d52b43971c09c24867a.js"></script>
+              <figcaption class="imageCaption">Using the Sorted function to sort the numbers array in descending order</figcaption>
+            </figure>
+            <figure name="d5b2" id="d5b2" class="graf graf--figure graf--iframe graf-after--figure graf--trailing">
+              <script src="https://gist.github.com/joerocca/b286ad953e45a11d1d282b0e58b646f1.js"></script>
+              <figcaption class="imageCaption">Chaining the Filter and Reduce functions to calculate the sum of the numbers in the array that are less than or equal t0 50</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+    </section>
+  </article>
+</body>
+</html>
