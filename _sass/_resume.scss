@@ -1,6 +1,6 @@
 .resume {
   padding: 2rem 0;
-  
+
   &-title {
     color: $default-shade;
     font-family: $sans-font;
@@ -16,9 +16,14 @@
     width: 4rem;
   }
 
+  &-download {
+    display: block;
+    text-align: center;
+  }
+
   p {
     margin: 0 0 1rem;
-    text-align: justify;
+    text-align: left;
   }
 
   a:hover {

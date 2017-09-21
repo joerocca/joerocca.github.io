@@ -9,7 +9,7 @@ Joe Rocca
 
 [{{ site.author.phone }}](tel:{{ site.author.phone }}) &middot; [{{ site.author.email }}](mailto:{{ site.author.email }}) &middot; [joerocca.me]({{ site.author.website }}) &middot; [www.github.com/joerocca]({{ site.author.github }}){:target="blank"}
 
-2828 Safe Harbor Dr, Tampa, FL 33618
+Tampa, FL
 
 Developer seeking opportunities to contribute to a company’s growth while expanding my skills beyond my current knowledge.
 
@@ -49,17 +49,17 @@ Technical Experience
 
 Topple Track is one of the web’s leading anti-piracy platforms. We are made up of search pioneers with an enthusiasm for music, who ultimately would like to achieve a ‘more sustainable online sales environment’. We provide anti-piracy protection from search listings and file’s source in order to protect the artist and label.
 
-[**Bagel Runner**](https://itunes.apple.com/us/app/bagel-runner/id987543533?mt=8){:target="blank"} - *iOS, tvOS App*
+[**Bagel Runner**](https://itunes.apple.com/us/app/bagel-runner/id987543533?mt=8){:target="blank"} - *iOS App*
 
 Bagel Runner is an endless runner game where Toastoleon Bonaparte must dodge his greatest foe, bagels, in hopes of finding a better life where he can shamelessly enjoy his favorite toaster treats. Help Toastoleon Bonaparte dodge as many bagels as he can so he can enjoy the life he deserves!
 
 [**Glass**](https://itunes.apple.com/us/app/glass-simple-gesture-based-timer/id1269254738?mt=8){:target="blank"} - *tvOS App*
 
-Glass is a simple timer app that takes advantage of gestures.
+Glass is a simple timer app that takes advantage of Siri Remote gestures.
 
 [**History**](https://www.amazon.com/dp/B01FOR95WC){:target="blank"} - *Alexa Skill*
 
-History allows you to receive history facts for each day of the year. Just ask Alexa what happened on any date and enjoy!
+History allows you to ask Alexa to retrieve history facts for a given date.
 
 [**NetworkImageLoader**](https://github.com/joerocca/NetworkImageLoader){:target="blank"} - *iOS Library*
 

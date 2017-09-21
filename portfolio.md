@@ -3,7 +3,7 @@ layout: portfolio
 title: Portfolio
 ---
 
-![](/img/topple_track.jpg)
+![](/assets/img/topple_track.jpg)
 
 ## Topple Track
 *iOS*
@@ -14,18 +14,18 @@ Topple Track is one of the web’s leading anti-piracy platforms. We are made up
 
 ***
 
-![](/img/glass.jpg)
+![](/assets/img/glass.jpg)
 
 ## Glass
 *tvOS*
 
 [View on iTunes](https://itunes.apple.com/us/app/glass-simple-gesture-based-timer/id1269254738?mt=8){:target="blank"}
 
-Glass is a simple timer app that takes advantage of gestures.
+Glass is a simple timer app that takes advantage of Siri Remote gestures.
 
 ***
 
-![](/img/np.jpg)
+![](/assets/img/np.jpg)
 
 ## Noiseporn(Music Blog)
 *iOS, tvOS, Roku, Chromecast*
@@ -38,7 +38,7 @@ Noiseporn is a industry leading music blog providing music fans with the latest 
 
 ***
 
-![](/img/bagel_runner.jpg)
+![](/assets/img/bagel_runner.jpg)
 
 ## Bagel Runner
 *iOS*
@@ -49,7 +49,7 @@ Bagel Runner is an endless runner game where Toastoleon Bonaparte must dodge his
 
 ***
 
-![](/img/history.jpg)
+![](/assets/img/history.jpg)
 
 ## History
 *Alexa Skill*
@@ -58,7 +58,7 @@ Bagel Runner is an endless runner game where Toastoleon Bonaparte must dodge his
 
 [View on Github](https://github.com/joerocca/AmazonEchoHistorySkill){:target="blank"}
 
-History allows you to receive history facts for each day of the year. Just ask Alexa what happened on any date and enjoy!
+History allows you to ask Alexa to retrieve history facts for a given date.
 
 ***
 
