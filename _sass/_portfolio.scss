@@ -1,33 +1,12 @@
 .portfolio {
   padding: 2rem 0;
 
-  &-title {
-    color: $default-shade;
-    font-family: $sans-font;
-    font-size: 2rem;
-    margin: 1rem 0;
-    text-align: center;
-  }
-
-  &-line {
-    border-top: .4rem solid $default-shade;
-    display: block;
-    margin: 0 auto 3rem;
-    width: 4rem;
-  }
-
   h2, p {
     text-align: center;
   }
 
   img {
-    display: block;
-    width: 13em;
-    margin: 1em auto 0 auto;
+    @include center-image;
     border-radius: 5%;
-  }
-
-  a:hover {
-    text-decoration: underline;
   }
 }

@@ -12,6 +12,23 @@ footer,
   width: 80%;
 }
 
+main {
+  .page-title {
+    color: $default-shade;
+    font-family: $sans-font;
+    font-size: 2rem;
+    margin: 1rem 0;
+    text-align: center;
+  }
+
+  .page-title-line {
+    border-top: .4rem solid $default-shade;
+    display: block;
+    margin: 0 auto 3rem;
+    width: 4rem;
+  }
+}
+
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
@@ -83,6 +100,12 @@ footer,
       margin: 0;
       position: relative;
     }
+  }
+}
+
+.resume, .portfolio, .about {
+  a:hover {
+    text-decoration: underline;
   }
 }
 

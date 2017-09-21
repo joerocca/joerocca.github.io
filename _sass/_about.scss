@@ -1,16 +1,10 @@
 .about {
   img {
-    display: block;
-    width: 13em;
-    margin: 1em auto 0 auto;
+    @include center-image;
     border-radius: 100%;
   }
 
   h1, p {
     text-align: center;
-  }
-
-  a:hover {
-    text-decoration: underline;
   }
 }

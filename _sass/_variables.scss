@@ -26,3 +26,9 @@ $code-color: #bf616a;
      -moz-transition: $args;
           transition: $args;
 }
+
+@mixin center-image {
+  display: block;
+  width: 13em;
+  margin: 1em auto 0 auto;
+}
