@@ -3,10 +3,10 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          Joe Rocca
-paginate_path: "/blog/:num/"
+paginate_path:  /blog/:num/
 paginate:       5
 baseurl:        ""
-url:            "http://joerocca.me"
+url:            http://joerocca.me
 
 # Assets
 sass:
