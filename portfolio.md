@@ -8,7 +8,7 @@ title: Portfolio
 ## Topple Track
 *iOS*
 
-[View on iTunes](https://itunes.apple.com/us/app/topple-track/id1121866705?mt=8){:target="blank"}
+[View on App Store](https://itunes.apple.com/us/app/topple-track/id1121866705?mt=8){:target="blank"}
 
 Topple Track is one of the web’s leading anti-piracy platforms. We are made up of search pioneers with an enthusiasm for music, who ultimately would like to achieve a ‘more sustainable online sales environment’. We provide anti-piracy protection from search listings and file’s source in order to protect the artist and label.
 
@@ -19,7 +19,7 @@ Topple Track is one of the web’s leading anti-piracy platforms. We are made up
 ## Glass
 *tvOS*
 
-[View on iTunes](https://itunes.apple.com/us/app/glass-simple-gesture-based-timer/id1269254738?mt=8){:target="blank"}
+[View on App Store](https://itunes.apple.com/us/app/glass-simple-gesture-based-timer/id1269254738?mt=8){:target="blank"}
 
 Glass is a simple timer app that takes advantage of Siri Remote gestures.
 
@@ -30,7 +30,7 @@ Glass is a simple timer app that takes advantage of Siri Remote gestures.
 ## Noiseporn(Music Blog)
 *iOS, tvOS, Roku, Chromecast*
 
-[View on iTunes](https://itunes.apple.com/us/app/noiseporn/id371075335?mt=8){:target="blank"}
+[View on App Store](https://itunes.apple.com/us/app/noiseporn/id371075335?mt=8){:target="blank"}
 
 [View on Roku](https://channelstore.roku.com/details/62350/noiseporn){:target="blank"}
 
@@ -43,7 +43,7 @@ Noiseporn is a industry leading music blog providing music fans with the latest 
 ## Bagel Runner
 *iOS*
 
-[View on Amazon](https://itunes.apple.com/us/app/bagel-runner/id987543533?mt=8){:target="blank"}
+[View on App Store](https://itunes.apple.com/us/app/bagel-runner/id987543533?mt=8){:target="blank"}
 
 Bagel Runner is an endless runner game where Toastoleon Bonaparte must dodge his greatest foe, bagels, in hopes of finding a better life where he can shamelessly enjoy his favorite toaster treats. Help Toastoleon Bonaparte dodge as many bagels as he can so he can enjoy the life he deserves!
 
