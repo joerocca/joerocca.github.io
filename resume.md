@@ -37,7 +37,7 @@ Experience
 * Developed and deployed a Content Management System for the media applications.
 * Developed multiple micro-services that helped streamline the main distribution/management process. Services included restricted artwork detection, catalog importing, and title refactoring.
 * Designed, developed, and deployed an iOS application for a piracy protection service.
-* Developer a micro-service for the piracy protection service that detects whether or not a webpage is providing an illegal link to a release/song based on a number of common identifiers.
+* Developed a micro-service for the piracy protection service that detects whether or not a webpage is providing an illegal link to a release/song based on a number of common identifiers.
 * Provided assistance and guidance on various Symphonic B2B projects.
 
 ***
