@@ -66,6 +66,10 @@ main {
     opacity: .6;
     padding: 0 2rem 0 0;
 
+    @media (max-width: 335px) {
+      padding-right: 1rem;
+    }
+    
     &:last-child {
       padding-right: 0;
     }
@@ -80,10 +84,8 @@ main {
     color: $default-color;
     font-family: $sans-font;
   }
-}
 
-@media (min-width: 600px) {
-  .nav {
+  @media (min-width: 600px) {
     &-container {
       text-align: left;
     }
