@@ -15,7 +15,7 @@ footer,
 main {
   .page-title {
     color: $default-shade;
-    font-family: $sans-font;
+    font-family: $helvetica;
     font-size: 2rem;
     margin: 1rem 0;
     text-align: center;
@@ -32,6 +32,7 @@ main {
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
+  font-size: 14px;
 
   &-container {
     margin: 1rem auto;
@@ -82,10 +83,12 @@ main {
 
   a {
     color: $default-color;
-    font-family: $sans-font;
+    font-family: $helvetica;
   }
 
   @media (min-width: 600px) {
+    font-size: 16px;
+
     &-container {
       text-align: left;
     }
@@ -112,7 +115,7 @@ main {
 }
 
 footer {
-  font-family: $palatino;
+  font-family: $helvetica;
   padding: 2rem 0;
   text-align: center;
 
@@ -147,6 +150,6 @@ footer {
 
   a {
     color: $default-color;
-    font-family: $sans-font;
+    font-family: $helvetica;
   }
 }
