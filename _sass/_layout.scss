@@ -17,14 +17,14 @@ main {
     color: $default-shade;
     font-family: $helvetica;
     font-size: 2rem;
-    margin: 1rem 0;
+    margin: 10px 0;
     text-align: center;
   }
 
   .page-title-line {
     border-top: .4rem solid $default-shade;
     display: block;
-    margin: 0 auto 3rem;
+    margin: 0 auto 35px;
     width: 4rem;
   }
 }
@@ -116,7 +116,7 @@ main {
 
 footer {
   font-family: $helvetica;
-  padding: 2rem 0;
+  padding: 12px 0;
   text-align: center;
 
   span {
@@ -126,7 +126,7 @@ footer {
 
   ul {
     list-style-type: none;
-    margin: 1rem 0 0;
+    margin: 8px 0 0;
     padding: 0;
     text-align: center;
   }

@@ -1,10 +1,11 @@
 .portfolio {
-  padding: 2rem 0;
+  padding: 12px 0;
 
   h2, p {
     text-align: center;
+    margin: 0 0 10px;
   }
-
+  
   img {
     @include center-image;
     border-radius: 5%;
