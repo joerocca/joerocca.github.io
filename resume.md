@@ -3,26 +3,14 @@ layout: resume
 title: Resume
 ---
 
-Joe Rocca
+Software Developer
 ============
-**Software Developer**
 
 [{{ site.author.phone }}](tel:{{ site.author.phone }}) &middot; [{{ site.author.email }}](mailto:{{ site.author.email }}) &middot; [joerocca.me]({{ site.author.website }}) &middot; [www.github.com/joerocca]({{ site.author.github }}){:target="blank"}
 
 Tampa, FL
 
 Developer seeking opportunities to contribute to a company’s growth while expanding my skills beyond my current knowledge.
-
-***
-
-Education
----------
-
-**The Iron Yard**
-
-*Mobile Engineering* &middot; February 2015 - May 2015
-
-The Iron Yard is a 12-week immersive code school. I learned how to use Xcode, Git, Objective-C, and a good portion of Swift. During the first 9 weeks, my classmates and I attended lectures from 9am-12pm, then completed a project by the following morning. The final 3 weeks we worked on a project of our choosing. I created Bagel Runner, an endless runner game which I presented at The Iron Yard's Demo Day.
 
 ***
 
@@ -64,6 +52,17 @@ History allows you to ask Alexa to retrieve history facts for a given date.
 [**NetworkImageLoader**](https://github.com/joerocca/NetworkImageLoader){:target="blank"} - *iOS Library*
 
 A bare bones library for downloading and caching images.
+
+***
+
+Education
+---------
+
+**The Iron Yard**
+
+*Mobile Engineering* &middot; February 2015 - May 2015
+
+The Iron Yard is a 12-week immersive code school. I learned how to use Xcode, Git, Objective-C, and a good portion of Swift. During the first 9 weeks, my classmates and I attended lectures from 9am-12pm, then completed a project by the following morning. The final 3 weeks we worked on a project of our choosing. I created Bagel Runner, an endless runner game which I presented at The Iron Yard's Demo Day.
 
 ***
 
