@@ -3,8 +3,7 @@ layout: resume
 title: Resume
 ---
 
-Software Developer
-============
+## *Software Developer*
 
 [{{ site.author.phone }}](tel:{{ site.author.phone }}) &middot; [{{ site.author.email }}](mailto:{{ site.author.email }}) &middot; [joerocca.me]({{ site.author.website }}) &middot; [www.github.com/joerocca]({{ site.author.github }}){:target="blank"}
 
