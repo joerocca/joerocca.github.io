@@ -16,6 +16,29 @@ Developer seeking opportunities to contribute to a company’s growth while expa
 Experience
 ----------
 
+**Evolve Security Academy**
+
+*Security Apprentice* &middot; January 2018 - Present
+
+
+* Performed a live vulnerability assessment on a not-for-profit company based on ISO 27001:27002 standards that involved scoping, creating, and delivering a 15-page report that included an executive summary, detailed findings and recommendations for remediation.
+* Executed assessments by utilizing automated tools such as Nessus, OpenVAS, Metasploit, Nikto as well as manual testing including Burp Suite, Wireshark, TCPDump, Custom Scripts, etc.
+* Identified web application vulnerabilities based on OWASP standards and best practices.
+* Executed phishing campaign on clients using the GoPhish Framework.
+* Deployed and managed IDS rule creation and alert reviews with SNORT
+* Deployed log management though SIEMs (Splunk).
+* Performed server hardening on CentOS, Windows, Debian environments by enforcing best practices such as configuration of appropriate password policy, implementation of host-based firewalls thorough IPTables, disabling weak cryptographic ciphers, disabling unnecessary services in accordance with least functionality, etc.
+* Created various Python and Bash scripts for packet analysis, port scanning, OSINT gathering.
+* Provisioned multiple AWS environments using AWS CLI, Terraform(Infrastructure as code), Docker, etc.
+
+**Independent Contractor**
+
+*Software Developer* &middot; June 2017 - Present
+
+* Developed, maintained, and deployed various applications multiple platforms including iOS, Web, Roku, Chromecast using Swift, Objective-C, Python, Elixir, Brightscript, etc.
+* Developed software solution for Salesforce and PRTG API Integration.
+* Provided guidance on various business objectives.
+
 **Symphonic Distribution**
 
 *Application Developer* &middot; July 2015 - May 2017
@@ -57,17 +80,34 @@ A bare bones library for downloading and caching images.
 Education
 ---------
 
+**Evolve Security Academy**
+
+*Cybersecurity* &middot; January 2018 - May 2018
+
+Evolve Security Academy is a Cybersecurity Bootcamp in Chicago that provides immersive training, giving students the concrete and practical skills they will actually need on the job. Students gain real work experience through the live security assessment work they perform on not-for-profit companies.
+
+Areas of focus included Networking, Application Stack, Threat Landscape, Security Programs, Social Engineering, System Architecture, System Hardening, Crytography, Offensive Security, Incident Response, Forensics, etc.
+
 **The Iron Yard**
 
 *Mobile Engineering* &middot; February 2015 - May 2015
 
-The Iron Yard is a 12-week immersive code school. I learned how to use Xcode, Git, Objective-C, and a good portion of Swift. During the first 9 weeks, my classmates and I attended lectures from 9am-12pm, then completed a project by the following morning. The final 3 weeks we worked on a project of our choosing. I created Bagel Runner, an endless runner game which I presented at The Iron Yard's Demo Day.
+The Iron Yard is an immersive code school where I learned Objective-C , Swift, Bash, Xcode, Git, Linux Fundamentals, and many other technical skills. Throughout the program, my classmates and I attended lectures from 9am to 12pm, then completed a project by the following morning. During the final month of the program, we worked on a project of our choosing. I created Bagel Runner, an endless runner game which I presented at The Iron Yard's Demo Day.
+
+***
+
+Certifications
+--------------
+
+[**CompTIA Security+ SY0-501**](https://www.certmetrics.com/comptia/public/verification.aspx?code=HP6GZS0XQQP6F4GE){:target="blank"} &middot; May 2018
+
+**Evolve Security Certified Professional (ESCP)** &middot; April 2018
 
 ***
 
 Skills
 ------
 
-Swift, Objective-C, Python, Elixir, Brightscript, AWS, Xcode, Git, CSS, HTML
+Swift, Objective-C, Python, Ruby, Bash, Elixir, Brightscript, AWS, Docker, Terraform, Linux (Command Line), Virtualization (VirtualBox, VMWare), Xcode, Git, CSS, HTML
 
 Basic knowledge of PHP, Javascript, Java, C
