@@ -92,7 +92,7 @@ Areas of focus included Networking, Application Stack, Threat Landscape, Securit
 
 *Mobile Engineering* &middot; February 2015 - May 2015
 
-The Iron Yard is an immersive code school where I learned Objective-C , Swift, Bash, Xcode, Git, Linux Fundamentals, and many other technical skills. Throughout the program, my classmates and I attended lectures from 9am to 12pm, then completed a project by the following morning. During the final month of the program, we worked on a project of our choosing. I created Bagel Runner, an endless runner game which I presented at The Iron Yard's Demo Day.
+The Iron Yard is an immersive code school where I learned Objective-C, Swift, Bash, Xcode, Git, Linux Fundamentals, and many other technical skills. Throughout the program, my classmates and I attended lectures from 9am to 12pm, then completed a project by the following morning. During the final month of the program, we worked on a project of our choosing. I created Bagel Runner, an endless runner game which I presented at The Iron Yard's Demo Day.
 
 ***
 
@@ -108,6 +108,6 @@ Certifications
 Skills
 ------
 
-Swift, Objective-C, Python, Ruby, Bash, Elixir, Brightscript, AWS, Docker, Terraform, Linux (Command Line), Virtualization (VirtualBox, VMWare), Xcode, Git, CSS, HTML
+Swift, Objective-C, Python, Ruby, Bash, Elixir, Brightscript, SQL, Docker, Terraform (Infastructure as code), Xcode, Git, CSS, HTML, AWS, Linux, Windows, Virtualization (VirtualBox, VMWare), Virtual Private Networks (VPN), Intrusion Detection Systems (IDS) (Snort), SIEMs (Splunk), Web Application Security (Burp Suite, Metasploit, OWASP), Packet Inspection (Wireshark, TCPDump), Security Policies (ISO 27001:27002, NIST), Vulnerability Scanning/Assessments (Nessus, OpenVAS, Nmap), Firewalls (IPTables)
 
-Basic knowledge of PHP, Javascript, Java, C
+Basic knowledge of Javascript, PHP, Java, C, Powershell
