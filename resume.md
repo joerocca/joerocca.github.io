@@ -56,9 +56,13 @@ Experience
 Technical Experience
 --------------------
 
-[**Topple Track**](https://itunes.apple.com/us/app/topple-track/id1121866705?mt=8){:target="blank"} - *iOS App*
+[**Topple Track**](https://itunes.apple.com/us/app/topple-track/id1121866705?mt=8){:target="blank"} - *iOS & Web App*
 
 Topple Track is a brand of Symphonic Distribution that aims to protect artist's music from file sharing websites.
+
+[**GitHawk**](https://github.com/GitHawkApp/GitHawk){:target="blank"} - *iOS App*
+
+GitHawk is the highest rated GitHub project manager app on iOS.
 
 [**NetworkImageLoader**](https://github.com/joerocca/NetworkImageLoader){:target="blank"} - *iOS Library*
 
