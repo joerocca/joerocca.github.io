@@ -6,11 +6,7 @@ title: Resume
 Summary
 -------
 
-[{{ site.author.phone }}](tel:{{ site.author.phone }}) &middot; [{{ site.author.email }}](mailto:{{ site.author.email }}) &middot; [joerocca.me]({{ site.author.website }}) &middot; [github.com/joerocca]({{ site.author.github }}){:target="blank"}
-
-Tampa, FL
-
-I am a Software Developer and Cybersecurity Apprentice seeking opportunities to contribute to a company’s growth while expanding my skills beyond my current knowledge.
+I am a Software Developer and Cybersecurity Apprentice in Tampa Bay working on and continually learning more about building applications and securing them in the process. I have been writing software since 2014, when I started teaching myself. I previously worked as an Application Developer at Symphonic Distribution before I left to expand my skills by pursuing an intensive cybersecurity education. I am now seeking opportunities to contribute to a company's growth while expanding my development, security, and operations skills beyond my current knowledge.
 
 ***
 
@@ -26,8 +22,8 @@ Experience
 * Executed assessments by utilizing automated tools such as Nessus, OpenVAS, Metasploit, Nikto as well as manual testing including Burp Suite, Wireshark, TCPDump, Custom Scripts, etc.
 * Identified web application vulnerabilities based on OWASP standards and best practices.
 * Executed phishing campaign on clients using the GoPhish Framework.
-* Deployed and managed IDS rule creation and alert reviews with SNORT
-* Deployed log management though SIEMs (Splunk).
+* Deployed and managed IDS rule creation and alert reviews with Snort.
+* Deployed log management through SIEMs (Splunk).
 * Performed server hardening on CentOS, Windows, Debian environments by enforcing best practices such as the configuration of appropriate password policy, implementation of host-based firewalls thorough IPTables, disabling weak cryptographic ciphers, disabling unnecessary services in accordance with least functionality, etc.
 * Created various Python and Bash scripts for packet analysis, port scanning, OSINT gathering.
 * Provisioned multiple AWS environments using AWS CLI, Terraform(Infrastructure as code), Docker, etc.
@@ -36,7 +32,7 @@ Experience
 
 *Software Developer* — June 2017 - Present
 
-* Developed, maintained, and deployed various applications multiple platforms including iOS, Web, Roku, Chromecast using Swift, Objective-C, Python, Elixir, Brightscript, etc.
+* Developed, maintained, and deployed various applications on multiple platforms including iOS, Web, Roku, Chromecast.
 * Developed software solution for Salesforce and PRTG API Integration.
 * Provided guidance on various business objectives.
 
@@ -44,10 +40,10 @@ Experience
 
 *Application Developer* — July 2015 - May 2017
 
-* Designed, developed, and deployed media applications for iOS, tvOS, Roku, and Chromecast.
-* Developed and deployed a Content Management System for the media applications.
+* Responsible for designing, developing, and deploying media applications for an industry-leading music blog. Platforms included iOS, tvOS, Roku, and Chromecast.
+* Developed and deployed a content management system for the media applications.
 * Developed multiple micro-services that helped streamline the main distribution/management process. Services included restricted artwork detection, catalog importing, and title refactoring.
-* Designed, developed, and deployed an iOS application for a piracy protection service.
+* Responsible for designing, developing, and deploying an iOS application for a piracy protection service.
 * Developed a micro-service for the piracy protection service that detects whether or not a webpage is providing an illegal link to a release/song based on a number of common identifiers.
 * Provided assistance and guidance on various Symphonic B2B projects.
 
@@ -60,17 +56,19 @@ Technical Experience
 
 Topple Track is a brand of Symphonic Distribution that aims to protect artist's music from file sharing websites.
 
+*Swift, Objective-C, Python, Ruby/Rails, SQL*
+
+[**Noiseporn**](https://itunes.apple.com/us/app/noiseporn/id371075335?mt=8){:target="blank"} — *IOS, tvOS, Roku, Chromecast, & Web App*
+
+Noiseporn is an industry-leading music blog providing music fans with the latest news, interviews, music, videos, and more.
+
+*Objective-C, Swift, Brightscript, Elixir/Phoenix, Javascript, Docker, AWS*
+
 [**GitHawk**](https://github.com/GitHawkApp/GitHawk){:target="blank"} — *iOS App*
 
-GitHawk is the highest rated GitHub project manager app on iOS.
+GitHawk is an open-source GitHub project manager app for iOS.
 
-[**NetworkImageLoader**](https://github.com/joerocca/NetworkImageLoader){:target="blank"} — *iOS Library*
-
-A bare-bones library for downloading and caching images.
-
-[**History**](https://www.amazon.com/dp/B01FOR95WC){:target="blank"} — *Alexa Skill*
-
-History allows you to ask Alexa to retrieve history facts for a given date.
+*Swift, GraphQL*
 
 ***
 
@@ -105,6 +103,4 @@ Certifications
 Skills
 ------
 
-Swift, Objective-C, Python, Ruby, Bash, Elixir, Brightscript, SQL, Docker, Terraform (Infastructure as code), Xcode, Git, CSS, HTML, AWS, Linux, Windows, Virtualization (VirtualBox, VMWare), Virtual Private Networks (VPN), Intrusion Detection Systems (IDS) (Snort), SIEMs (Splunk), Web Application Security (Burp Suite, Metasploit, OWASP), Packet Inspection (Wireshark, TCPDump), Security Policies (ISO 27001:27002, NIST), Vulnerability Scanning/Assessments (Nessus, OpenVAS, Nmap), Firewalls (IPTables)
-
-Basic knowledge of Javascript, PHP, Java, C, Powershell
+Swift, Objective-C, Python, Ruby, Bash, Elixir, Brightscript, Javascript, SQL, Docker, Terraform (Infastructure as code), Xcode, Git, CSS, HTML, AWS, Linux, Windows, Virtualization (VirtualBox, VMWare), Virtual Private Networks (VPN), Intrusion Detection Systems (IDS) (Snort), SIEMs (Splunk), Web Application Security (Burp Suite, Metasploit, OWASP), Packet Inspection (Wireshark, TCPDump), Security Policies (ISO 27001:27002, NIST), Vulnerability Scanning/Assessments (Nessus, OpenVAS, Nmap), Firewalls (IPTables)
