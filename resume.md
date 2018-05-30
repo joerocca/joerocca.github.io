@@ -8,8 +8,6 @@ Summary
 
 I am a Software Developer and Cybersecurity Apprentice in Tampa Bay working on and continually learning more about building applications and securing them in the process. I have been writing software since 2014, when I started teaching myself. I previously worked as an Application Developer at Symphonic Distribution before I left to expand my skills by pursuing an intensive cybersecurity education. I am now seeking opportunities to contribute to a company's growth while expanding my development, security, and operations skills beyond my current knowledge.
 
-***
-
 Experience
 ----------
 
@@ -24,7 +22,7 @@ Experience
 * Executed phishing campaign on clients using the GoPhish Framework.
 * Deployed and managed IDS rule creation and alert reviews with Snort.
 * Deployed log management through SIEMs (Splunk).
-* Performed server hardening on CentOS, Windows, Debian environments by enforcing best practices such as the configuration of appropriate password policy, implementation of host-based firewalls thorough IPTables, disabling weak cryptographic ciphers, disabling unnecessary services in accordance with least functionality, etc.
+* Performed server hardening on CentOS, Windows, Debian environments by enforcing best practices such as the configuration of appropriate password policy, implementation of host-based firewalls through IPTables, disabling weak cryptographic ciphers, disabling unnecessary services in accordance with least functionality, etc.
 * Created various Python and Bash scripts for packet analysis, port scanning, OSINT gathering.
 * Provisioned multiple AWS environments using AWS CLI, Terraform(Infrastructure as code), Docker, etc.
 
@@ -47,8 +45,6 @@ Experience
 * Developed a micro-service for the piracy protection service that detects whether or not a webpage is providing an illegal link to a release/song based on a number of common identifiers.
 * Provided assistance and guidance on various Symphonic B2B projects.
 
-***
-
 Technical Experience
 --------------------
 
@@ -70,8 +66,6 @@ GitHawk is an open-source GitHub project manager app for iOS.
 
 *Swift, GraphQL*
 
-***
-
 Education
 ---------
 
@@ -89,16 +83,12 @@ Areas of focus included Networking, Application Stack, Threat Landscape, Securit
 
 The Iron Yard is an immersive code school where I learned Objective-C, Swift, Bash, Xcode, Git, Linux Fundamentals, and many other technical skills. Throughout the program, my classmates and I attended lectures from 9 am to 12 pm, then completed a project by the following morning. During the final month of the program, we worked on a project of our choosing. I created Bagel Runner, an endless runner game which I presented at The Iron Yard's Demo Day.
 
-***
-
 Certifications
 --------------
 
 [**CompTIA Security+ SY0-501**](https://www.certmetrics.com/comptia/public/verification.aspx?code=HP6GZS0XQQP6F4GE){:target="blank"} — May 2018
 
 **Evolve Security Certified Professional (ESCP)** — April 2018
-
-***
 
 Skills
 ------
