@@ -23,14 +23,12 @@
     <main>
       {{ content }}
     </main>
-
-    <footer>
-      {% if page.title != "About" %}
-        {% include social.html %}
-        <span>
-          &copy; <time datetime="{{ site.time }}">{{ site.time | date: "%Y" }}</time> {{ site.author.name }}
-        </span>
-      {% endif %}
-    </footer>
+    {% if page.title != "About" %}
+      <footer>
+        <div class="footer-container">
+          {% include social.html %}
+        </div>
+      </footer>
+    {% endif %}
   </body>
 </html>

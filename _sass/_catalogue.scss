@@ -3,7 +3,8 @@
     border-bottom: 1px solid $grey-2;
     color: $default-color;
     display: inline-block;
-    padding: 25px 0;
+    padding: 10px 0 20px 0;
+    width: 100%;
 
     &:hover .catalogue-line,
     &:focus .catalogue-line {
@@ -19,13 +20,14 @@
     color: $default-tint;
     font-family: $palatino;
     letter-spacing: .5px;
+    font-size: 0.8rem;
   }
 
   &-title {
     color: $default-shade;
     display: block;
     font-family: $helvetica;
-    font-size: 2rem;
+    font-size: 1.125rem;
     font-weight: 700;
     margin: .5rem 0;
   }

@@ -1,6 +1,6 @@
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 700px;
   width: 80%;
 }
 
@@ -8,7 +8,7 @@ main,
 footer,
 .nav-container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 700px;
   width: 80%;
 }
 
@@ -16,32 +16,25 @@ main {
   .page-title {
     color: $default-shade;
     font-family: $helvetica;
-    font-size: 2rem;
-    margin: 10px 0;
-    text-align: center;
-  }
-
-  .page-title-line {
-    border-top: .4rem solid $default-shade;
-    display: block;
-    margin: 0 auto 35px;
-    width: 4rem;
+    font-size: 2.3rem;
+    margin: 10px 0 40px 0;
   }
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
   font-size: 14px;
 
   &-container {
+    border-bottom: 1px solid $grey-2;
+    padding: 16px 0;
     margin: 12px auto;
     position: relative;
     text-align: center;
   }
 
   &-title {
-    color: $default-color;
+    color: $default-shade;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
@@ -54,20 +47,20 @@ main {
 
   ul {
     list-style-type: none;
-    margin: 8px 0 0;
     padding: 0;
     text-align: center;
+    font-size: 15px;
+
+    @media (max-width: 700px) {
+      margin: 8px 0 0;
+    }
   }
 
   li {
     color: $default-color;
     display: inline-block;
     opacity: .6;
-    padding: 0 36px 0 0;
-
-    @media (max-width: 365px) {
-      padding-right: 24px;
-    }
+    padding: 0 20px 0 0;
 
     @media (max-width: 320px) {
       padding-right: 16px;
@@ -117,9 +110,14 @@ footer {
   font-family: $helvetica;
   padding: 12px 0;
   text-align: center;
+  border-top: 1px solid $grey-2;
 
   span {
     color: $default-color;
     font-size: .8rem;
+  }
+
+  .footer-container {
+    margin: 20px auto;
   }
 }

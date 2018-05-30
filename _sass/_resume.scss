@@ -1,9 +1,26 @@
 .resume {
   padding: 12px 0;
 
+  &-page-header {
+    margin: 10px 0 40px 0;
+
+    a {
+      color: $default-shade;
+      opacity: .6;
+
+      &:hover,
+      &:focus {
+        opacity: 1;
+      }
+    }
+
+    h1 {
+      display: inline;
+    }
+  }
+
   &-download {
-    display: block;
-    text-align: center;
+    float: right;
   }
 
   p {
