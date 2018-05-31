@@ -14,19 +14,19 @@ title: Portfolio
 </li>
 
 <li>
+	<a href="https://github.com/GitHawkApp/GitHawk" target="blank">GitHawk</a> (iOS) — <p>GitHawk is an open-source GitHub project manager app for iOS. (<a href="https://github.com/GitHawkApp/GitHawk/pulls?q=is%3Apr+author%3Ajoerocca+is%3Aclosed" target="blank">contributions</a>)</p>
+</li>
+
+<li>
 	<a href="https://itunes.apple.com/us/app/bagel-runner/id987543533?mt=8" target="blank">Bagel Runner</a> (iOS) — <p>Bagel Runner is an endless runner game.</p>
 </li>
 
 <li>
-	<a href="https://itunes.apple.com/us/app/glass-simple-gesture-based-timer/id1269254738?mt=8" target="blank">Glass</a> (tvOS) — <p>Glass is a simple timer app that takes advantage of Siri Remote gestures.</p>
-</li>
-
-<li>
-	<a href="https://github.com/GitHawkApp/GitHawk" target="blank">GitHawk</a> (iOS) — <p>GitHawk is an open-source GitHub project manager app for iOS.</p>
-</li>
-
-<li>
 	<a href="https://github.com/joerocca/NetworkImageLoader" target="blank">NetworkImageLoader</a> (Swift Library) — <p>A bare bones library for downloading and caching images.</p>
+</li>
+
+<li>
+	<a href="https://itunes.apple.com/us/app/glass-simple-gesture-based-timer/id1269254738?mt=8" target="blank">Glass</a> (tvOS) — <p>Glass is a simple timer app that takes advantage of Siri Remote gestures.</p>
 </li>
 
 <li>
