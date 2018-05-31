@@ -31,7 +31,7 @@ Experience
 *Software Developer* — June 2017 - Present
 
 * Developed, maintained, and deployed various applications on multiple platforms including iOS, Web, Roku, Chromecast.
-* Developed software solution for Salesforce and PRTG API Integration.
+* Developed middleware to integrate the Salesforce API and an infrastructure monitoring system.
 * Provided guidance on various business objectives.
 
 **Symphonic Distribution**
