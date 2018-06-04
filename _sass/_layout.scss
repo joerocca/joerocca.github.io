@@ -38,10 +38,15 @@ main {
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+    font-size: 20px;
 
     &:hover,
     &:focus {
       opacity: .6;
+    }
+
+    @media (min-width: 500px) {
+      font-size: 24px;
     }
   }
 
@@ -49,7 +54,7 @@ main {
     list-style-type: none;
     padding: 0;
     text-align: center;
-    font-size: 15px;
+    font-size: 14px;
 
     @media (max-width: 700px) {
       margin: 8px 0 0;
@@ -81,13 +86,7 @@ main {
     font-family: $helvetica;
   }
 
-  @media (min-width: 500px) {
-    font-size: 16px;
-  }
-
   @media (min-width: 700px) {
-    font-size: 19px;
-
     &-container {
       text-align: left;
     }
