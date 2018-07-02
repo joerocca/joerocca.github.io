@@ -11,9 +11,17 @@ I am a Software Developer and Cybersecurity Apprentice in Tampa Bay working on a
 Experience
 ----------
 
+**Independent Contractor**
+
+*Software Developer* — June 2017 - Present
+
+* Developed, maintained, and deployed various applications on multiple platforms including iOS, Web, Roku, Chromecast.
+* Developed middleware to integrate the Salesforce API and an infrastructure monitoring system.
+* Provided guidance on various business objectives.
+
 **Evolve Security Academy**
 
-*Security Apprentice* — January 2018 - Present
+*Security Apprentice* — January 2018 - May 2018
 
 
 * Performed a live vulnerability assessment on a not-for-profit company based on ISO 27001:27002 standards that involved scoping, creating, and delivering a 15-page report that included an executive summary, detailed findings, and recommendations for remediation.
@@ -25,14 +33,6 @@ Experience
 * Performed server hardening on CentOS, Windows, Debian environments by enforcing best practices such as the configuration of appropriate password policy, implementation of host-based firewalls through IPTables, disabling weak cryptographic ciphers, disabling unnecessary services in accordance with least functionality, etc.
 * Created various Python and Bash scripts for packet analysis, port scanning, OSINT gathering.
 * Provisioned multiple AWS environments using AWS CLI, Terraform(Infrastructure as code), Docker, etc.
-
-**Independent Contractor**
-
-*Software Developer* — June 2017 - Present
-
-* Developed, maintained, and deployed various applications on multiple platforms including iOS, Web, Roku, Chromecast.
-* Developed middleware to integrate the Salesforce API and an infrastructure monitoring system.
-* Provided guidance on various business objectives.
 
 **Symphonic Distribution**
 
