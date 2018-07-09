@@ -23,7 +23,6 @@ Experience
 
 *Security Apprentice* — January 2018 - May 2018
 
-
 * Performed a live vulnerability assessment on a not-for-profit company based on ISO 27001:27002 standards that involved scoping, creating, and delivering a 15-page report that included an executive summary, detailed findings, and recommendations for remediation.
 * Executed assessments by utilizing automated tools such as Nessus, OpenVAS, Metasploit, Nikto as well as manual testing including Burp Suite, Wireshark, TCPDump, Custom Scripts, etc.
 * Identified web application vulnerabilities based on OWASP standards and best practices.
@@ -36,7 +35,7 @@ Experience
 
 **Symphonic Distribution**
 
-*Application Developer* — July 2015 - May 2017
+*Application Developer* — July 2015 - June 2017
 
 * Responsible for designing, developing, and deploying media applications for an industry-leading music blog. Platforms included iOS, tvOS, Roku, and Chromecast.
 * Developed and deployed a content management system for the media applications.
